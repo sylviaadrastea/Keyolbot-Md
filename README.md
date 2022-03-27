@@ -16,7 +16,7 @@ This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](h
 ## My Project
 
 WhatsApp Bot normal [`riychuhuy/Elaina-Bot`](https://github.com/riychuhuy/Elaina-Md)
-WhatsApp Bot Multi Device [`Keyols/Keyolbot-Md`](https://github.com/Keyols/Keyolbot-Md)
+WhatsApp Bot Multi Device [`selawikwok/Keyolbot-Md`](https://github.com/selawikwok/Keyolbot-Md)
 
 
 ## UNTUK PENGGUNA WINDOWS/RDP
@@ -27,7 +27,7 @@ WhatsApp Bot Multi Device [`Keyols/Keyolbot-Md`](https://github.com/Keyols/Keyol
 
 
 ```bash
-git clone https://github.com/Keyols/Keyolbot-Md
+git clone https://github.com/selawikwok/Keyolbot-Md
 cd Keyolbot-Md
 npm install
 ```
@@ -48,7 +48,7 @@ apt update && apt upgrade
 apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
-git clone https://github.com/Keyols/Keyolbot-Md
+git clone https://github.com/selawikwok/Keyolbot-Md
 cd Keyolbot-Md
 npm install
 ```
@@ -69,16 +69,16 @@ $ node .
 WhatsApp bot is still in the development stage, so there are a few bugs
 WhatsApp Connection (BETA, not working perfectly)
 
-Editing Number Owner & session name in [`config.js`](https://github.com/Keyols/Keyolbot-Md/blob/master/settings.js)
+Editing Number Owner & session name in [`config.js`](https://github.com/selawikwok/Keyolbot-Md/blob/master/settings.js)
 Get Apikey zenz on [`zenz`](https://zenzapi.xyz/pricing)
 
 
 ## Thanks To
 * [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
 * [`DikaArdnt`](https://github.com/DikaArdnt)
-* [`Shela`](https://github.com/Keyols)
+* [`Shela`](https://github.com/selawikwok)
 * [`Yoga`](https://github.com/YogGanz)
-* [`Riy`](https://github.com/riychuhuy)
+* [`Riy`](https://github.com/riychdwayne)
 * [`Faiz`](https://github.com/paizx)
 * [`Adhista`](https://github.com/24ID)
 
