@@ -5,50 +5,27 @@
 
 This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
 
-## My Project
+## FOR HEROKU
 
-WhatsApp Bot normal [`riychdwayne/Elaina-Bot`](https://github.com/riychdwayne/Elaina-Md)
-WhatsApp Bot Multi Device [`selawikwok/Keyolbot-Md`](https://github.com/selawikwok/Keyolbot-Md)
+## FOR TERMUX
 
-
-## UNTUK PENGGUNA WINDOWS/RDP
-
-* Unduh & Instal Git [`Klik Disini`](https://git-scm.com/downloads)
-* Unduh & Instal NodeJS [`Klik Disini`](https://nodejs.org/en/download)
-* Unduh & Instal FFmpeg [`Klik Disini`](https://ffmpeg.org/download.html) (**Jangan Lupa Tambahkan FFmpeg ke variabel lingkungan PATH**)
-
-```bash
-git clone https://github.com/selawikwok/Keyolbot-Md
-cd Keyolbot-Md
-npm install
 ```
-
-## FOR TERMUX/UBUNTU/SSH USER
-
-```bash
 apt update && apt upgrade
 apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
 git clone https://github.com/selawikwok/Keyolbot-Md
 cd Keyolbot-Md
-npm install
-```
-
-## IF ERROR INSTALL MODULE FOR TERMUX
-
-```
-pkg install yarn
+pkg install yarn -y
 yarn
 ```
 
-## ❗ Warning
-WhatsApp bot is still in the development stage, so there are a few bugs
-WhatsApp Connection (BETA, not working perfectly)
+## WARNING
 
-Editing Number Owner & session name in [`settings.js`](https://github.com/selawikwok/Keyolbot-Md/blob/master/settings.js)
-Get Apikey zenz on [`zenz`](https://zenzapi.xyz/pricing)
-
+```
+Edit nomor owner & nama session disini [`settings.js`](https://github.com/selawikwok/Keyolbot-Md/blob/master/settings.js)
+Get apikey [`zenz`](https://zenzapi.xyz/pricing)
+```
 
 ## Thanks To
 * [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
