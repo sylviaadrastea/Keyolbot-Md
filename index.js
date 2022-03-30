@@ -51,7 +51,7 @@ async function startyol() {
     const yol = yolConnect({
         logger: pino({ level: 'silent' }),
         printQRInTerminal: true,
-        browser: ['Kiki Multi Device','Safari','1.0.0'],
+        browser: ['Keyol Multi Device','Safari','1.0.0'],
         auth: state,
         version
     })
@@ -179,7 +179,7 @@ async function startyol() {
      * @returns
      */
     yol.send5ButGif = async (jid , text = '' , footer = '', but = [], options = {}) =>{
-    let message = await prepareWAMessageMedia({ video: fs.readFileSync('./image/riych.mp4'), gifPlayback: true }, { upload: yol.waUploadToServer })
+    let message = await prepareWAMessageMedia({ video: fs.readFileSync('./image/keyol.mp4'), gifPlayback: true }, { upload: yol.waUploadToServer })
      const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
      templateMessage: {
          hydratedTemplate: {
