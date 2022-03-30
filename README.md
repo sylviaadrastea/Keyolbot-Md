@@ -43,7 +43,7 @@ Get apikey [`zenz`](https://zenzapi.xyz/pricing)
 * [`Wangsap`](https://wa.me/6281995944283)
 * [`Igeh`](https://instagram.com/shelaaa817)
 
-## Contact Riy
+## Contact RiychDwayne
 * [`Wangsap`](https://wa.me/6281575886399)
 * [`Igeh`](https://instagram.com/riychh)
 
