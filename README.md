@@ -3,9 +3,13 @@
 </p>
 <h1 align="center">Keyolbot-Md</h1>
 
-This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
+Base : [`DikaArdnt`](https://github.com/DikaArdnt)
+Recode : [`RiychDwayne`](https://github.com/riychdwayne)
 
 ## FOR HEROKU
+```
+nodejs
+```
 
 ## FOR TERMUX
 
@@ -18,6 +22,7 @@ git clone https://github.com/selawikwok/Keyolbot-Md
 cd Keyolbot-Md
 pkg install yarn -y
 yarn
+npm start
 ```
 
 ## WARNING
