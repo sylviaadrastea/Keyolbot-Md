@@ -22,10 +22,8 @@ yarn
 
 ## WARNING
 
-```
 Edit nomor owner & nama session disini [`settings.js`](https://github.com/selawikwok/Keyolbot-Md/blob/master/settings.js)
 Get apikey [`zenz`](https://zenzapi.xyz/pricing)
-```
 
 ## Thanks To
 * [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
